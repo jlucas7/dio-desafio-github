@@ -1,0 +1,1 @@
+Arquivo criado para sinalizar noções do Gi "Desafio de Projeto Git/Github"
